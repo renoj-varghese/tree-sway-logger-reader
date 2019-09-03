@@ -1,0 +1,28 @@
+{
+  "name": "tree-sway-logger-reader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renoj-varghese/tree-sway-logger-reader.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/renoj-varghese/tree-sway-logger-reader/issues"
+  },
+  "homepage": "https://github.com/renoj-varghese/tree-sway-logger-reader#readme",
+  "dependencies": {
+    "csvtojson": "^2.0.10",
+    "express": "^4.17.1",
+    "read-last-lines": "^1.7.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.2"
+  }
+}
