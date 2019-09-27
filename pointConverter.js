@@ -13,8 +13,8 @@ module.exports =  (function() {
     const Fy = 0.0044
 
 
-    const x_rest = 0
-    const y_rest = 0
+    const x_rest = -0.22358
+    const y_rest = -0.1372162
 
     const L = 11
     const h = 3
